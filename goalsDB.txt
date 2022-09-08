@@ -1,0 +1,8 @@
+GOALS;TIMES DONE
+Reading;21
+Swimming;14
+Running;10
+German;23
+Math proj.;12
+Dancing;5
+Cooking;9
